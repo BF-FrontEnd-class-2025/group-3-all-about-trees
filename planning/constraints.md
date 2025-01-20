@@ -1,32 +1,18 @@
 # Constraints
 
-Some boundaries around our project.
+The project should be done purely with HTML and CSS, without relying on
+JavaScript.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over.
-  These may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- before January 22nd
+- will use HTML and CSS
 
-## Internal: Involuntary
+## Internal
 
-<!--
-  constraints that come from within your team, and you have no control over.
-  They may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+### Availability
 
-## Internal: Voluntary
-
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- Emilia - 7 hours a day
+- Semen - 8 hours a day
+- Viktoriia - 8 hours a day
+- Abrash - 7 hours a day
