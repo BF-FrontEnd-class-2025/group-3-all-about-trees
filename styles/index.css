@@ -35,8 +35,12 @@
   }
 }
 
-.top-divider {
-  border-style: solid none none none;
+.fascinating-words {
+  font-family: fantasy;
+}
+
+.bottom-divider {
+  border-style: none none solid;
 }
 
 .spaced-items {
@@ -46,4 +50,8 @@
   justify-content: space-around;
   padding-top: 2%;
   padding-bottom: 2%;
+}
+
+.top-divider {
+  border-style: solid none none;
 }
