@@ -1,3 +1,4 @@
+/* stylelint-disable property-no-vendor-prefix */
 .centered-items {
   display: flex;
   flex-direction: row;
@@ -13,6 +14,10 @@
 
 .bouncy-img:hover {
   animation: bounce 1s;
+}
+
+.fascinating-words {
+  font-family: fantasy;
 }
 
 @keyframes bounce {
@@ -33,10 +38,6 @@
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
   }
-}
-
-.fascinating-words {
-  font-family: fantasy;
 }
 
 .bottom-divider {
