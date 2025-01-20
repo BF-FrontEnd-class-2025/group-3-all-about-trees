@@ -20,6 +20,10 @@
   font-family: fantasy;
 }
 
+.interesting-things {
+  list-style-type: square;
+}
+
 @keyframes bounce {
   0%,
   20%,
