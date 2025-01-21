@@ -9,11 +9,8 @@
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
+  - [Code Example](#code-example)
   - [Status](#status)
-  - [Inspiration](#inspiration)
   - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
@@ -22,55 +19,52 @@
 
 ## General info
 
-> A short description
+Welcome to All About Trees, your ultimate resource for everything related to trees
+ Our mission is to provide comprehensive information about tree species,
+ their benefits, care tips, and their vital role in maintaining a healthy environment.
+  Whether you’re a nature enthusiast, a gardener, or simply curious about the green
+  giants around us, our platform offers easy-to-understand guides, educational
+articles, and expert advice to help you connect with and protect the world’s trees.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![All About Trees](./planning/screenshot.png)
 
 ## Technologies
 
-- Node 14.16.0
+- Node v22.13.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
-## Setup
+## Code Example
 
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<header class="centered-items">
+      <img
+        class="bouncy-img"
+        src="./public/happy-tree.jpg"
+        alt="a smiling tree"
+      />
+      <h1>All About Trees</h1>
+      <img
+        class="bouncy-img"
+        src="./public/happy-tree.jpg"
+        alt="a smiling tre
 ```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
 
 ## Status
 
-Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
+Project is: _completed_
 
 ## Contact
 
-By [Name]
+By:
+
+- [Emilia](https://github.com/emilia-12)
+- [Semen](https://github.com/bynd1u)
+- [Viktoriia](https://github.com/ViktoriiaMessi)
+- [Mohammed](https://github.com/Mohammed-ABR)
 
 ## Instructions for use
 
