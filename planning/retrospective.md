@@ -15,7 +15,6 @@
 - Creating the issues before starting working on it.
 - Adding more description to the issues.
 - Using the project board properly by moving the issues in the right column.
--
 
 ## Lessons Learned
 
