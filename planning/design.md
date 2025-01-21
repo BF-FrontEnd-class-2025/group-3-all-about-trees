@@ -1,17 +1,10 @@
-# Design
+# "All about trees" design
 
-## Project's design overview
+## Design
 
-> Give an overview of your project's design
+We decided to create a simple website, without a lot of colors and elements on
+the page.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+## Wireframe
 
----
-
-## Wireframe(s)
-
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Design](../public/wireframe.png)
