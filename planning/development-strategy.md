@@ -1,55 +1,91 @@
-# Project Name
+# All About Trees
 
-<!-- describe your project -->
-
----
+A website about trees and how to save them.
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- creating repo from the [template](https://github.com/HackYourFutureBelgium/template-html-css)
+- adding collaborators
+- cloning the repo
 
----
+## Title
 
-<!-- copy this section once for each must-have user story -->
+this feature developed on a branch `title`
 
-## user story
+### html
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- add `header` tag with class `centered-items`
+- add `h1` and 2 imgs with class `bouncy-image`
 
-> "as a ... i can ... so that ..."
+### css
 
-<!-- write any extra notes or description -->
+- style `centered-items` class which include display and padding
+- style `bouncy-image` add `height` and `weight`
+- add `hover` to my img
+- add animation for the logo
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+## Navbar
 
-### Logic: user story
+this feature developed on a branch `navbar`
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### html
 
-### Interface: user story
+- add `header` tag with class `centered-items`
+- add `h1` and 2 imgs
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### css
 
-### Interaction: user story
+- style `centered-items` class which include display and padding
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Summary
 
-### Documentation: user story
+this feature developed on a branch `summary-section`
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### html
+
+- add `header` tag with class `centered-items`
+- add `h1` and 2 imgs
+
+### css
+
+- style `centered-items` class which include display and padding
+
+## Main
+
+this feature developed on a branch `main-section`
+
+### html
+
+- add `p` element
+- add list that contains links to articles
+
+### css
+
+- style `interesting-things`
+
+## Aside
+
+this feature developed on a branch `aside`
+
+### html
+
+- add `header` tag with class `centered-items`
+- add `h1` and 2 imgs
+
+### css
+
+- style `aside-info` class
+- style `aside-text` class
+
+## Footer
+
+this feature developed on a branch `footer`
+
+### html
+
+- add links to social media
+
+### css
+
+- style `top-divider` class
+- style `spaced-items` class
