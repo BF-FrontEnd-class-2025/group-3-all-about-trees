@@ -20,7 +20,7 @@ this feature developed on a branch `title`
 ### css
 
 - style `centered-items` class which include display and padding
-- style `bouncy-image` add `height` and `weight
+- style `bouncy-image` add `height` and `weight`
 - add `hover` to my img
 - add animation for the logo
 
