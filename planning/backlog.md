@@ -14,8 +14,8 @@ functionalities for the website. The stories are categorized by priority.
 - [ ] As a user, I want to see organized and engaging main section of the page,
       such as information about trees, resources, guides, and articles.
 
-- [ ]As a user, I want to see additional content in the sidebar to keep the
-  content fresh and engaging.
+- [ ] As a user, I want to see additional content in the sidebar to keep the
+      content fresh and engaging.
 
 - [ ] As a user, I want to see a footer where I could find useful social media
       links, so I can easily connect with the website’s social channels and stay
