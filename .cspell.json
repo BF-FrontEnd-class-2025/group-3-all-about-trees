@@ -16,7 +16,8 @@
     "Todos",
     "wireframe",
     "Viktoriia",
-    "Abrash"
+    "Abrash",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
